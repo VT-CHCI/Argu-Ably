@@ -1,0 +1,66 @@
+Sketch Feedback							11/03/2014
+------------------------
+Label on active question not so prominent
+
+something differeent if the students are given roles
+
+how many students have submitted before close question
+
+cool feature: data visualizations
+- dynamic
+- informs teacher
+
+sidebar
+---------
+my classes could be drop down and named the actual class
+shade it (in progress)
+think about personal library of documents 
+
+>> website that makes a 3d view of the DOMs layers
+
+search tags
+shows other similar class questions by default and can optionally expand
+
+think of homepage before login
+- interesting overview content
+
+tags - personal and others can add
+
+hints - think about more
+may be nice to current student to see past arguments to same question
+
+notes
+highlights and citations are seperate
+more real estate to what the student has done
+library can be list instead of thumbnails
+search your own notes
+exact time of due date
+how many words and how many citatations
+
+-------------------
+Missing:
+
+* Teacher view - annotating
+- red/ green highlighter for for and against
+- key document hint? star vs plian text
+- using a document for two assignments -different highlights
+- practice mode - can reveal large areas the teacher has revealed as important
+
+* Student view - annotating
+- draw in margins
+
+-------------------
+TODO:
+Read Ember documentation to decide on it vs Angular
+How do people store pdfs in or images in databases
+
+authentication
+django (python) vs ruby on rails (ruby)
+
+testing
+-casper and phantom
+-sikuli script
+
+conferences
+-chi
+-cscw

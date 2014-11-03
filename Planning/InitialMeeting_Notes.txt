@@ -1,0 +1,43 @@
+Adam Barnes
+-------------------
+ArguAbly
+- Document - based -questions
+- Teach students how to read/ interpret/ argue what's going on based on the document
+and it's claims.
+- 3 Documents on one side, 3 documents on the other, kids choose a side, write an essay
+that uses stuff from them to justify their point.
+- Teachers work very hard, wants students to do well, not as important educationally
+- They have too work hard to find the document, create mock questions, etc.
+- So ultimately students don't get as much practice because of time
+
+----
+USE CASE:
+- Probably going to be used to grade, start out as everyone identified
+- Teacher decides on some topic, creates activity in advance
+- Finds documents, uploads to system, must tell if for/against, can highlight helpful sections
+- Student sees all documents, must choose which ones to use
+- Documents have catagories
+- Teacher dashboard
+- Logging in
+- Compose area, submition, notes, reference specific part of document
+- Documents have a highlights section
+- Write-Up: reference parts of the documents (Almost hyperlink like)
+- Interface thoughts: composing argument, can go to document and highlight piece of doc and
+it links back to their argument
+
+
+- Will work with pdf
+	- assume pdf has nessessary meta-data
+		- meta-data: being able to highlight text within the pdf implies that the text is
+		is somewhere in there
+		- 
+- Screen assumed 1280x1024
+
+PROOF OF CONCEPT:
+- Work on interfacing with a pdf
+
+
+- Future: real-time/ immediate feedback
+
+TESTING:
+Angular Full Stack Generator
